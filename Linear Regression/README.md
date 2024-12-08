@@ -99,6 +99,7 @@ f"Equation of the line: y = {coef:.2f}x + {intercept:.2f}"
 
 ``` 'Equation of the line: y = 19.33x + 52.05' ```
 
+### Graph:
 ![alt text](image.png)
 
 The linear regression model trained on the synthetic data provides the following equation:
